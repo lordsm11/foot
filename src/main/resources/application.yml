@@ -1,0 +1,8 @@
+server:
+ port: 9123
+ context-path: /foot
+
+spring:
+  data:
+    mongodb:
+      database: foot

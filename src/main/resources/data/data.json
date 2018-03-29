@@ -1,0 +1,1096 @@
+{
+  "stadiums": [
+    {
+      "id": 1,
+      "name": "Luzhniki Stadium",
+      "city": "Moscow",
+      "lat": 55.715765,
+      "lng": 37.5515217
+    },
+    {
+      "id": 2,
+      "name": "Otkrytiye Arena",
+      "city": "Moscow",
+      "lat": 55.817765,
+      "lng": 37.440363
+    },
+    {
+      "id": 3,
+      "name": "Krestovsky Stadium",
+      "city": "Saint Petersburg",
+      "lat": 59.972740,
+      "lng": 30.221408
+    },
+    {
+      "id": 4,
+      "name": "Kaliningrad Stadium",
+      "city": "Kaliningrad",
+      "lat": 54.698157,
+      "lng": 20.533859
+    },
+    {
+      "id": 5,
+      "name": "Kazan Arena",
+      "city": "Kazan",
+      "lat": 55.820983,
+      "lng": 49.160966
+    },
+    {
+      "id": 6,
+      "name": "Nizhny Novgorod Stadium",
+      "city": "Nizhny Novgorod",
+      "lat": 56.337287,
+      "lng": 43.963251
+    },
+    {
+      "id": 7,
+      "name": "Cosmos Arena",
+      "city": "Samara",
+      "lat": 53.278146,
+      "lng": 50.238854
+    },
+    {
+      "id": 8,
+      "name": "Volgograd Arena",
+      "city": "Volgograd",
+      "lat": 48.734195,
+      "lng": 44.548345
+    },
+    {
+      "id": 9,
+      "name": "Mordovia Arena",
+      "city": "Saransk",
+      "lat": 54.181795,
+      "lng": 45.203851
+    },
+    {
+      "id": 10,
+      "name": "Rostov Arena",
+      "city": "Rostov-on-Don",
+      "lat": 47.209581,
+      "lng": 39.738424
+    },
+    {
+      "id": 11,
+      "name": "Fisht Olympic Stadium",
+      "city": "Sochi",
+      "lat": 43.402011,
+      "lng": 39.955709
+    },
+    {
+      "id": 12,
+      "name": "Central Stadium",
+      "city": "Yekaterinburg",
+      "lat": 56.832490,
+      "lng": 60.573585
+    }
+  ],
+  "tvchannels": [
+    {
+      "id": 1,
+      "name": "DR1 Danmark",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "TV2 Danmark",
+      "icon": ""
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Russia",
+      "iso2": "ru"
+    },
+    {
+      "id": 2,
+      "name": "Saudi Arabia",
+      "iso2": "sa"
+    },
+    {
+      "id": 3,
+      "name": "Egypt",
+      "iso2": "eg"
+    },
+    {
+      "id": 4,
+      "name": "Uruguay",
+      "iso2": "uy"
+    },
+    {
+      "id": 5,
+      "name": "Portugal",
+      "iso2": "pt"
+    },
+    {
+      "id": 6,
+      "name": "Spain",
+      "iso2": "es"
+    },
+    {
+      "id": 7,
+      "name": "Morocco",
+      "iso2": "ma"
+    },
+    {
+      "id": 8,
+      "name": "Iran",
+      "iso2": "ir"
+    },
+    {
+      "id": 9,
+      "name": "France",
+      "iso2": "fr"
+    },
+    {
+      "id": 10,
+      "name": "Australia",
+      "iso2": "au"
+    },
+    {
+      "id": 11,
+      "name": "Peru",
+      "iso2": "pe"
+    },
+    {
+      "id": 12,
+      "name": "Denmark",
+      "iso2": "dk"
+    },
+    {
+      "id": 13,
+      "name": "Argentina",
+      "iso2": "ar"
+    },
+    {
+      "id": 14,
+      "name": "Iceland",
+      "iso2": "is"
+    },
+    {
+      "id": 15,
+      "name": "Croatia",
+      "iso2": "hr"
+    },
+    {
+      "id": 16,
+      "name": "Nigeria",
+      "iso2": "ng"
+    },
+    {
+      "id": 17,
+      "name": "Brazil",
+      "iso2": "br"
+    },
+    {
+      "id": 18,
+      "name": "Switzerland",
+      "iso2": "ch"
+    },
+    {
+      "id": 19,
+      "name": "Costa Rica",
+      "iso2": "cr"
+    },
+    {
+      "id": 20,
+      "name": "Serbia",
+      "iso2": "rs"
+    },
+    {
+      "id": 21,
+      "name": "Germany",
+      "iso2": "de"
+    },
+    {
+      "id": 22,
+      "name": "Mexico",
+      "iso2": "mx"
+    },
+    {
+      "id": 23,
+      "name": "Sweden",
+      "iso2": "se"
+    },
+    {
+      "id": 24,
+      "name": "South Korea",
+      "iso2": "kr"
+    },
+    {
+      "id": 25,
+      "name": "Belgium",
+      "iso2": "be"
+    },
+    {
+      "id": 26,
+      "name": "Panama",
+      "iso2": "pa"
+    },
+    {
+      "id": 27,
+      "name": "Tunisia",
+      "iso2": "tn"
+    },
+    {
+      "id": 28,
+      "name": "England",
+      "iso2": "gb-eng"
+    },
+    {
+      "id": 29,
+      "name": "Poland",
+      "iso2": "pl"
+    },
+    {
+      "id": 30,
+      "name": "Senegal",
+      "iso2": "sn"
+    },
+    {
+      "id": 31,
+      "name": "Colombia",
+      "iso2": "co"
+    },
+    {
+      "id": 32,
+      "name": "Japan",
+      "iso2": "jp"
+    }
+  ],
+      "matchs": [
+        {
+		  "group": "GROUP_A",
+          "name": 1,
+          "type": "GROUP",
+          "homeTeam": 1,
+          "awayTeam": 2,
+          "result": null,
+
+          "startDate": "2018-06-14T18:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_A",
+          "name": 2,
+          "type": "GROUP",
+          "homeTeam": 3,
+          "awayTeam": 4,
+          "result": null,
+
+          "startDate": "2018-06-15T17:00:00+05:00",
+          "stadium": 12,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_A",
+          "name": 17,
+          "type": "GROUP",
+          "homeTeam": 1,
+          "awayTeam": 3,
+          "result": null,
+
+          "startDate": "2018-06-19T21:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_A",
+          "name": 18,
+          "type": "GROUP",
+          "homeTeam": 4,
+          "awayTeam": 2,
+          "result": null,
+
+          "startDate": "2018-06-20T18:00:00+03:00",
+          "stadium": 10,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_A",
+          "name": 33,
+          "type": "GROUP",
+          "homeTeam": 4,
+          "awayTeam": 1,
+          "result": null,
+
+          "startDate": "2018-06-25T18:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_A",
+          "name": 34,
+          "type": "GROUP",
+          "homeTeam": 2,
+          "awayTeam": 3,
+          "result": null,
+
+          "startDate": "2018-06-25T17:00:00+03:00",
+          "stadium": 8,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 3,
+          "type": "GROUP",
+          "homeTeam": 5,
+          "awayTeam": 6,
+          "result": null,
+
+          "startDate": "2018-06-15T21:00:00+03:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 4,
+          "type": "GROUP",
+          "homeTeam": 7,
+          "awayTeam": 8,
+          "result": null,
+
+          "startDate": "2018-06-15T18:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 19,
+          "type": "GROUP",
+          "homeTeam": 5,
+          "awayTeam": 7,
+          "result": null,
+
+          "startDate": "2018-06-20T15:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 20,
+          "type": "GROUP",
+          "homeTeam": 8,
+          "awayTeam": 6,
+          "result": null,
+
+          "startDate": "2018-06-20T21:00:00+03:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 35,
+          "type": "GROUP",
+          "homeTeam": 8,
+          "awayTeam": 5,
+          "result": null,
+
+          "startDate": "2018-06-25T21:00:00+03:00",
+          "stadium": 9,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_B",
+          "name": 36,
+          "type": "GROUP",
+          "homeTeam": 6,
+          "awayTeam": 7,
+          "result": null,
+
+          "startDate": "2018-06-25T20:00:00+02:00",
+          "stadium": 4,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 5,
+          "type": "GROUP",
+          "homeTeam": 9,
+          "awayTeam": 10,
+          "result": null,
+
+          "startDate": "2018-06-16T13:00:00+03:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 6,
+          "type": "GROUP",
+          "homeTeam": 11,
+          "awayTeam": 12,
+          "result": null,
+
+          "startDate": "2018-06-16T19:00:00+03:00",
+          "stadium": 9,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 21,
+          "type": "GROUP",
+          "homeTeam": 9,
+          "awayTeam": 11,
+          "result": null,
+
+          "startDate": "2018-06-21T20:00:00+05:00",
+          "stadium": 12,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 22,
+          "type": "GROUP",
+          "homeTeam": 12,
+          "awayTeam": 10,
+          "result": null,
+
+          "startDate": "2018-06-21T16:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 37,
+          "type": "GROUP",
+          "homeTeam": 12,
+          "awayTeam": 9,
+          "result": null,
+
+          "startDate": "2018-06-26T17:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_C",
+          "name": 38,
+          "type": "GROUP",
+          "homeTeam": 10,
+          "awayTeam": 11,
+          "result": null,
+
+          "startDate": "2018-06-26T17:00:00+02:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 7,
+          "type": "GROUP",
+          "homeTeam": 13,
+          "awayTeam": 14,
+          "result": null,
+
+          "startDate": "2018-06-16T16:00:00+03:00",
+          "stadium": 2,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 8,
+          "type": "GROUP",
+          "homeTeam": 15,
+          "awayTeam": 16,
+          "result": null,
+
+          "startDate": "2018-06-16T21:00:00+02:00",
+          "stadium": 4,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 23,
+          "type": "GROUP",
+          "homeTeam": 13,
+          "awayTeam": 15,
+          "result": null,
+
+          "startDate": "2018-06-21T21:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 24,
+          "type": "GROUP",
+          "homeTeam": 16,
+          "awayTeam": 14,
+          "result": null,
+
+          "startDate": "2018-06-22T18:00:00+03:00",
+          "stadium": 8,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 39,
+          "type": "GROUP",
+          "homeTeam": 16,
+          "awayTeam": 13,
+          "result": null,
+
+          "startDate": "2018-06-26T21:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_D",
+          "name": 40,
+          "type": "GROUP",
+          "homeTeam": 14,
+          "awayTeam": 15,
+          "result": null,
+
+          "startDate": "2018-06-26T21:00:00+03:00",
+          "stadium": 10,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 9,
+          "type": "GROUP",
+          "homeTeam": 17,
+          "awayTeam": 18,
+          "result": null,
+
+          "startDate": "2018-06-17T21:00:00+03:00",
+          "stadium": 10,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 10,
+          "type": "GROUP",
+          "homeTeam": 19,
+          "awayTeam": 20,
+          "result": null,
+
+          "startDate": "2018-06-17T16:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 25,
+          "type": "GROUP",
+          "homeTeam": 17,
+          "awayTeam": 19,
+          "result": null,
+
+          "startDate": "2018-06-22T15:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 26,
+          "type": "GROUP",
+          "homeTeam": 20,
+          "awayTeam": 18,
+          "result": null,
+
+          "startDate": "2018-06-22T20:00:00+02:00",
+          "stadium": 4,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 41,
+          "type": "GROUP",
+          "homeTeam": 20,
+          "awayTeam": 17,
+          "result": null,
+
+          "startDate": "2018-06-27T21:00:00+03:00",
+          "stadium": 2,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_E",
+          "name": 42,
+          "type": "GROUP",
+          "homeTeam": 18,
+          "awayTeam": 19,
+          "result": null,
+
+          "startDate": "2018-06-27T21:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 11,
+          "type": "GROUP",
+          "homeTeam": 21,
+          "awayTeam": 22,
+          "result": null,
+
+          "startDate": "2018-06-17T18:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 12,
+          "type": "GROUP",
+          "homeTeam": 23,
+          "awayTeam": 24,
+          "result": null,
+
+          "startDate": "2018-06-18T15:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 27,
+          "type": "GROUP",
+          "homeTeam": 21,
+          "awayTeam": 23,
+          "result": null,
+
+          "startDate": "2018-06-23T21:00:00+03:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 28,
+          "type": "GROUP",
+          "homeTeam": 24,
+          "awayTeam": 22,
+          "result": null,
+
+          "startDate": "2018-06-23T18:00:00+03:00",
+          "stadium": 10,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 43,
+          "type": "GROUP",
+          "homeTeam": 24,
+          "awayTeam": 21,
+          "result": null,
+
+          "startDate": "2018-06-27T17:00:00+03:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_F",
+          "name": 44,
+          "type": "GROUP",
+          "homeTeam": 22,
+          "awayTeam": 23,
+          "result": null,
+
+          "startDate": "2018-06-27T19:00:00+05:00",
+          "stadium": 12,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 13,
+          "type": "GROUP",
+          "homeTeam": 25,
+          "awayTeam": 26,
+          "result": null,
+
+          "startDate": "2018-06-18T18:00:00+03:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 14,
+          "type": "GROUP",
+          "homeTeam": 27,
+          "awayTeam": 28,
+          "result": null,
+
+          "startDate": "2018-06-18T21:00:00+03:00",
+          "stadium": 8,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 29,
+          "type": "GROUP",
+          "homeTeam": 25,
+          "awayTeam": 27,
+          "result": null,
+
+          "startDate": "2018-06-23T15:00:00+03:00",
+          "stadium": 2,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 30,
+          "type": "GROUP",
+          "homeTeam": 28,
+          "awayTeam": 26,
+          "result": null,
+
+          "startDate": "2018-06-24T15:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 45,
+          "type": "GROUP",
+          "homeTeam": 28,
+          "awayTeam": 25,
+          "result": null,
+
+          "startDate": "2018-06-28T20:00:00+02:00",
+          "stadium": 4,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_G",
+          "name": 46,
+          "type": "GROUP",
+          "homeTeam": 26,
+          "awayTeam": 27,
+          "result": null,
+
+          "startDate": "2018-06-28T21:00:00+03:00",
+          "stadium": 9,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 15,
+          "type": "GROUP",
+          "homeTeam": 29,
+          "awayTeam": 30,
+          "result": null,
+
+          "startDate": "2018-06-19T18:00:00+03:00",
+          "stadium": 2,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 16,
+          "type": "GROUP",
+          "homeTeam": 31,
+          "awayTeam": 32,
+          "result": null,
+
+          "startDate": "2018-06-19T15:00:00+03:00",
+          "stadium": 9,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 31,
+          "type": "GROUP",
+          "homeTeam": 29,
+          "awayTeam": 31,
+          "result": null,
+
+          "startDate": "2018-06-24T20:00:00+05:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 32,
+          "type": "GROUP",
+          "homeTeam": 32,
+          "awayTeam": 30,
+          "result": null,
+
+          "startDate": "2018-06-24T21:00:00+03:00",
+          "stadium": 12,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 47,
+          "type": "GROUP",
+          "homeTeam": 32,
+          "awayTeam": 29,
+          "result": null,
+
+          "startDate": "2018-06-28T17:00:00+03:00",
+          "stadium": 8,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "GROUP_H",
+          "name": 48,
+          "type": "GROUP",
+          "homeTeam": 30,
+          "awayTeam": 31,
+          "result": null,
+
+          "startDate": "2018-06-28T18:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 49,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_a",
+          "awayTeam": "runner_b",
+          "result": null,
+
+          "startDate": "2018-06-30T17:00:00+03:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 50,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_c",
+          "awayTeam": "runner_d",
+          "result": null,
+
+          "startDate": "2018-06-30T21:00:00+03:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 51,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_b",
+          "awayTeam": "runner_a",
+          "result": null,
+
+          "startDate": "2018-07-01T17:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 52,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_d",
+          "awayTeam": "runner_c",
+          "result": null,
+
+          "startDate": "2018-07-01T21:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 53,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_e",
+          "awayTeam": "runner_f",
+          "result": null,
+
+          "startDate": "2018-07-02T18:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 54,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_g",
+          "awayTeam": "runner_h",
+          "result": null,
+
+          "startDate": "2018-07-02T21:00:00+03:00",
+          "stadium": 10,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 55,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_f",
+          "awayTeam": "runner_e",
+          "result": null,
+
+          "startDate": "2018-07-03T17:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_16",
+          "name": 56,
+          "type": "QUALIFIED",
+          "homeTeam": "winner_f",
+          "awayTeam": "runner_e",
+          "result": null,
+
+          "startDate": "2018-07-03T21:00:00+03:00",
+          "stadium": 2,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_8",
+          "name": 57,
+          "type": "WINNER",
+          "homeTeam": 49,
+          "awayTeam": 50,
+          "result": null,
+
+          "startDate": "2018-07-06T17:00:00+03:00",
+          "stadium": 6,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_8",
+          "name": 58,
+          "type": "WINNER",
+          "homeTeam": 53,
+          "awayTeam": 54,
+          "result": null,
+
+          "startDate": "2018-07-06T21:00:00+03:00",
+          "stadium": 5,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_8",
+          "name": 59,
+          "type": "WINNER",
+          "homeTeam": 51,
+          "awayTeam": 52,
+          "result": null,
+
+          "startDate": "2018-07-07T21:00:00+03:00",
+          "stadium": 11,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_8",
+          "name": 60,
+          "type": "WINNER",
+          "homeTeam": 55,
+          "awayTeam": 56,
+          "result": null,
+
+          "startDate": "2018-07-07T18:00:00+04:00",
+          "stadium": 7,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_4",
+          "name": 61,
+          "type": "WINNER",
+          "homeTeam": 57,
+          "awayTeam": 58,
+          "result": null,
+
+          "startDate": "2018-07-10T21:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_4",
+          "name": 62,
+          "type": "WINNER",
+          "homeTeam": 59,
+          "awayTeam": 60,
+          "result": null,
+
+          "startDate": "2018-07-11T21:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_2_LOOSER",
+          "name": 63,
+          "type": "LOSER",
+          "homeTeam": 61,
+          "awayTeam": 62,
+          "result": null,
+
+          "startDate": "2018-07-14T17:00:00+03:00",
+          "stadium": 3,
+          "channels": [],
+          "finished": false
+        },
+        {
+		  "group": "ROUND_2",
+          "name": 64,
+          "type": "WINNER",
+          "homeTeam": 61,
+          "awayTeam": 62,
+          "result": null,
+
+          "startDate": "2018-07-15T18:00:00+03:00",
+          "stadium": 1,
+          "channels": [],
+          "finished": false
+        }
+  ]
+}
